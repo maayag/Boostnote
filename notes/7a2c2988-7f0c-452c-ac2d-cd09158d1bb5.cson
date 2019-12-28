@@ -1,0 +1,64 @@
+createdAt: "2019-09-13T10:38:20.645Z"
+updatedAt: "2019-09-13T10:38:29.397Z"
+type: "MARKDOWN_NOTE"
+folder: "78609489e6890b00b13e"
+title: "Square"
+tags: []
+content: '''
+  Square
+  
+  Technical Interview Tips:
+  
+   
+  
+  1. Write code that will run: We have a high bar on candidates being able to write working code quickly. Pretend the code in the interview is going into production; don't treat it as "just interview hacking". Clean-up things as you change your mind about implementation ideas. Include comments for anything that warrants it. Don't add superfluous flow control or superfluous/unused variables. Keep best practices in mind and try to stick to them in the code you produce in the interview.
+  
+   
+  
+  2. Demonstrate expertise: For candidates with a lot of industry experience (vs. new graduates), show expertise in your preferred language. If you've done a lot of Java development for years, you should know commonly used libraries, such as the Java Collections Framework, very well. Even if you think you do know them already, consider preparing for the interview by studying API docs beforehand, just to be sure.
+  
+   
+  
+  3. Clarifying questions should be specific: Make sure questions you ask of the interview are clarifying questions -- more to the "what" of the problem than the "how". If you do have questions about "how", be able to describe your alternatives to the interviewer and then discuss their merits.
+  
+   
+  
+  4. Brush up on CS fundamentals: Sample topics: standard data structures, graph algorithms, big O notation, testing, code organization, leveraging OO fundamentals, functional programming, parsing.
+  
+   
+  
+  5. Take into consideration the time constraints on solving the problem. Speak up about tradeoffs you are making, things that you would write differently. Beware of bugs! You should also feel free to ask your interviewer on guidance on approaches.
+  
+   
+  
+  6. Be communicative. The interviewer will want to know why you are making your decisions and how you are approaching the problem.
+  
+   
+  
+  7. Be ready to discuss alternate methods. After you have completed a solution, the interviewer may be curious to know if you think it could have been solved another way.
+  
+   
+  
+  8. Consider writing modular code that you can test, and do not wait until the last 10 minutes of the interview to run your code.
+  
+   
+  
+  Additional Suggestions:
+  
+   
+  
+  1. Be prepared to answer, "Why Square?"
+  
+  2. Get familiar with our applications and products
+  
+  3. Square - More Than the Little White Reader
+  
+  4. Square Engineering & Product Careers
+  
+   
+  
+  Also, a book I always suggest is Cracking the Coding Interview. Some people recommend reading the first 10 pages of each chapter.
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

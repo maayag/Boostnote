@@ -1,0 +1,24 @@
+createdAt: "2019-03-24T13:58:03.136Z"
+updatedAt: "2019-04-01T21:34:03.305Z"
+type: "MARKDOWN_NOTE"
+folder: "cb2bcf0466b9fbea57c8"
+title: "Work Logins"
+tags: []
+content: '''
+  Work Logins
+  
+  
+  cf login -a https://api.cloud.pcftest.com -u mjanardhanan -p F2C6BG1$32lC -o Project-Sapphire -s K2
+  
+  
+  QAS1: 
+  sapphireqas1-clientsapphireapp.cloud.pcftest.com
+  
+  NTI:
+  
+  
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

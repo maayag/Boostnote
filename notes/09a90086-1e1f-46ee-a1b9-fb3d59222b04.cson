@@ -1,0 +1,22 @@
+createdAt: "2019-03-01T12:33:09.895Z"
+updatedAt: "2019-03-02T04:30:50.536Z"
+type: "MARKDOWN_NOTE"
+folder: "cb2bcf0466b9fbea57c8"
+title: "setup opera"
+tags: []
+content: '''
+  setup opera
+  Setup Rabbitmq
+  Setup Apache Kafka
+  Setup ELK
+  Setup cloud foundry
+  Setup machine learning
+  Setup Git server/Rhodecode
+  Setup Jenkins
+  Setup Synology NAS
+  Setup Zyxel NAS
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

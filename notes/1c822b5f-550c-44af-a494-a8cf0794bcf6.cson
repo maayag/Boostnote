@@ -1,0 +1,20 @@
+createdAt: "2019-08-17T01:09:24.125Z"
+updatedAt: "2019-08-26T11:32:00.600Z"
+type: "MARKDOWN_NOTE"
+folder: "864eeceaab9047d04ef0"
+title: "Inversion of Control"
+tags: []
+content: '''
+  <h2>Inversion of Control</h2>
+  
+  Design process of externalizing the contruction and management of objects
+  
+  
+  <h2>Dependency Injection</h2>
+  <h2>Dependency Inversion Principle</h2>
+  The client delegates to calls to another object the responsibility of providing 
+  its dependencies.
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

@@ -1,0 +1,32 @@
+createdAt: "2019-06-23T21:31:42.235Z"
+updatedAt: "2019-06-23T21:35:16.453Z"
+type: "MARKDOWN_NOTE"
+folder: "0b9f3c1b4c0cf942332e"
+title: "Java 8 in Action"
+tags: []
+content: '''
+  Java 8 in Action
+  Clean Architecture
+  Grokking Algorithms
+  Building Microservices
+  Soft Skills
+  Database Design for mere mortals
+  Making Java Groovy
+  Groovy in Action
+  TCP/IP Illustrated
+  Hibernate Tips
+  UML distilled 
+  Agile Development
+  Essential Scrum
+  Java Performance Companion
+  High Performance Java Persistence
+  Functional Programming in Scala
+  Scala for the impatient
+  Headfirst javascript
+  sql cookbook
+  the complete software developer's career guide
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

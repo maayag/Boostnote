@@ -1,0 +1,19 @@
+createdAt: "2019-08-26T11:29:50.168Z"
+updatedAt: "2019-08-26T11:31:48.506Z"
+type: "MARKDOWN_NOTE"
+folder: "864eeceaab9047d04ef0"
+title: "3 days to configure Spring container"
+tags: []
+content: '''
+  3 days to configure Spring container
+  
+  1. Full XML Config
+    All components are specified in XML
+  2. XML Component Scan
+    XML Config and @Component annotation
+  3. Java Configuration Class
+    No XML
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

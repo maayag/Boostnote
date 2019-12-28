@@ -1,0 +1,50 @@
+{
+  "folders": [
+    {
+      "key": "0b9f3c1b4c0cf942332e",
+      "color": "#1278BD",
+      "name": "Default"
+    },
+    {
+      "key": "cb2bcf0466b9fbea57c8",
+      "color": "#E10051",
+      "name": "WorkSpace"
+    },
+    {
+      "key": "1a08c9dc8161bc539047",
+      "color": "#E10051",
+      "name": "PersonalSpace"
+    },
+    {
+      "key": "5573715f58e5aa771f74",
+      "color": "#FF8E00",
+      "name": "Links"
+    },
+    {
+      "key": "b9b3a4bdeaa7cf6c3186",
+      "color": "#E10051",
+      "name": "Doctor Visits"
+    },
+    {
+      "key": "864eeceaab9047d04ef0",
+      "color": "#E8D252",
+      "name": "Spring"
+    },
+    {
+      "key": "78609489e6890b00b13e",
+      "color": "#E10051",
+      "name": "Interviews"
+    },
+    {
+      "key": "c645200cb907c849c145",
+      "color": "#FF8E00",
+      "name": "Puja"
+    },
+    {
+      "key": "eb4631465af4eaf8375c",
+      "color": "#30D5C8",
+      "name": "Expenses"
+    }
+  ],
+  "version": "1.0"
+}

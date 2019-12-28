@@ -1,0 +1,16 @@
+createdAt: "2019-05-09T02:21:06.543Z"
+updatedAt: "2019-05-09T02:23:54.266Z"
+type: "MARKDOWN_NOTE"
+folder: "0b9f3c1b4c0cf942332e"
+title: "Field text search"
+tags: []
+content: '''
+  Field text search
+  fieldName: Text (This is case sensitive)
+  AND OR NOT
+  
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
